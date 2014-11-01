@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.2'
+ruby '2.1.0'
 
 group :test, :development do
 	gem 'pry-nav'
